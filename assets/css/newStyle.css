@@ -1,0 +1,89 @@
+.banner-text-head {
+  font-size: 45px !important;
+}
+.banner-text-seperation {
+  color: #ff6600;
+}
+.title-style-choose {
+  font-weight: 600;
+}
+.why-choose-us-list li {
+  list-style: inside;
+}
+#Layer_1 {
+  width: 200px;
+}
+.service-modernization li,
+.service-software li,
+.service-consult li {
+  list-style: inside !important;
+}
+.service-image {
+  height: 200px;
+  overflow: hidden;
+}
+
+
+#itConsult{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-responsiveLM{
+  width:600px;
+  height: 380px;
+}
+.img-responsive{
+  width:auto;
+  height:350px;
+  
+}
+.exploreBtn{
+  background: transparent;
+  padding:12px 30px;
+  border-radius: 7px;
+  border-color: transparent;
+  border: 1px solid #ff6600;
+
+  /* color: #ff6600; */
+}
+.exploreBtn a{
+  color: #ff6600;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.exploreBtn:hover{
+  background: #ff6600;
+}
+.exploreBtn:hover a{
+  color: white;
+}
+/* .servicesExplore{
+  /* margin: 1rem 2rem;
+  background-color: white;
+  width:100px;
+  display:flex;
+  justify-content: center; */
+/* }
+.serviceExplore #btn-style-primary{
+  padding: 12px 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  transition: all 0.25s ease-in-out;
+}
+#btn-style-white{
+  background: var(--primary-color);
+    border-color: var(--primary-color);
+    color: #fff;
+}
+.exploreBtn{
+  background: transparent;
+  color: yellow;
+}
+#btn-style-white:hover {
+  background-color: #ff6600;
+  text-decoration: #fff;
+  /* background: transparent; */
+  /* color: var(--primary-color);
+} */ 
